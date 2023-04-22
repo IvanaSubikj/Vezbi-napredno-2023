@@ -1,0 +1,17 @@
+Start time: 2023-04-19 22:24:34
+First Name: Ivana
+Last Name: Subikj
+Index: INKI1000
+End time: 2023-04-19 22:24:37
+
+Start time: 2023-04-19 22:24:56
+First Name: Marija
+Last Name: Davcevska
+Index: INKI2110
+End time: 2023-04-19 22:25:01
+
+Start time: 2023-04-19 22:45:22
+First Name: Marija
+Last Name: Kostadinova
+Index: INKI8888
+End time: 2023-04-19 23:01:32
